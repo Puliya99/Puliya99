@@ -3,7 +3,7 @@
 <h3 align="center">A passinoate fullstrack developer from Sri Lanka </h3> <img src="./assets/sl-flag.gif" width="35px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dmlehan&label=Profile%20views&color=0e75b6&style=flat" alt="Dmlehan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dmlehan&theme=default" alt="Dmlehan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Puliya99&theme=default" alt="Puliya99" /></a> </p>
 
 
 - 📫 How to reach me **mathagadeerapulinda@gmail.com**
